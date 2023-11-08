@@ -5,7 +5,7 @@ data_source: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quali
 artifacts:
   ARTIFACTS_DIR: artifacts
   RAW_LOCAL_DIR: raw_local_dir
-  RAW_LOCAL_FILE: data.csv
+  RAW_LOCAL_FILE: data.csv 
   SPLIT_DATA_DIR: split_data_dir
   TRAIN: train.csv
   TEST: test.csv

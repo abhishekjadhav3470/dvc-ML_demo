@@ -3,7 +3,7 @@ https://github.com/abhishekjadhav3470/dvc-ML_demo.git
 
 # Steps:
 
-## Steps_01: Create a empty remote repository
+## Step_01: Create a empty remote repository
 
 
 ## Step_02: intialize a git local repository and connect to remote repository

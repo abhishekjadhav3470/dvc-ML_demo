@@ -3,13 +3,13 @@
 data_source: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
 
 artifacts:
-  ARTIFACTS_DIR: artifacts
-  RAW_LOCAL_DIR: raw_local_dir
-  RAW_LOCAL_FILE: data.csv 
-  SPLIT_DATA_DIR: split_data_dir
-  TRAIN: train.csv
-  TEST: test.csv
-  MODEL_DIR: model_dir
-  MODEL_NAME: model.pkl
+  artifacts_dir: artifacts
+  raw_local_dir: raw_local_dir
+  raw_local_file: data.csv 
+  # split_data_dir: split_data_dir
+  # train: train.csv
+  # test: test.csv
+  # model_dir: model_dir
+  # model_name: model.pkl
 
-scores: scores.json
+# scores: scores.json
